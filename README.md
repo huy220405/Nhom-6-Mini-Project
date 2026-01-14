@@ -19,7 +19,7 @@ Dự án này sử dụng kỹ thuật khai phá dữ liệu (Data Mining) để
 ## 2. Kết quả Phân cụm & Trực quan hóa
 
 ### 2.1. Phân bố các nhóm khách hàng
-*(Chèn ảnh Biểu đồ tròn từ Dashboard của bạn vào đây)*
+
 ![Phân bố cụm](images/pie_chart.png)
 > **Nhận xét:**
 > - Hệ thống phân loại khách hàng thành **2 nhóm** rõ rệt.
@@ -34,7 +34,7 @@ Chúng tôi sử dụng mô hình RFM (Recency - Frequency - Monetary) để đ�
 | **0** | 3,512 | **98.81** (Cao) | 3.80 (Thấp) | 1,698.89 (Thấp) |
 | **1** | 408 | **35.42** (Thấp) | **8.08** (Cao) | **3,288.92** (Cao) |
 
-*(Chèn ảnh Biểu đồ cột so sánh chi tiêu từ Dashboard vào đây)*
+
 ![So sánh chi tiêu](images/bar_chart.png)
 
 > **Phân tích:**
@@ -57,7 +57,7 @@ Dựa trên kết quả phân tích số liệu, chúng tôi định danh 2 nhó
 ## 4. Demo Dashboard Báo cáo
 Nhóm đã xây dựng giao diện Dashboard tương tác bằng **Streamlit** để hỗ trợ doanh nghiệp tra cứu nhanh:
 
-*(Chụp ảnh toàn màn hình Dashboard đẹp nhất của bạn chèn vào đây)*
+
 ![Dashboard Demo](images/dashboard_demo.png)
 
 ---
